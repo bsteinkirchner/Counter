@@ -1,15 +1,7 @@
-# bootstrap-boilerplate
 Description:
-The purpose of this readme is to create the bootstrap boiulerplate.
 
-Prerequisites:
-Bootstrap, VS code, git
+The purpose of this is to create a counter that can increase, decrease, and reset to zero with the press of buttons.
 
+Stack:
 
-Installation:
-
-License:
-N/A
-
-Contact:
-Bsteinkirchner@outlook.com
+HTML, CSS, JS
